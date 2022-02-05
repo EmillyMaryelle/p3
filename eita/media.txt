@@ -1,0 +1,5 @@
+Ana = 7.33
+Bruno = 6.60
+Claudia = 7.36
+Daniel = 8.83
+Elisa = 6.83
